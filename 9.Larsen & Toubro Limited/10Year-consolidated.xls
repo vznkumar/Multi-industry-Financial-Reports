@@ -1,0 +1,263 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><font style='font-size:10.0pt; font-family:Calibri;'><BR><BR><BR><div id="ContentPlaceHolder1_YearKeyFinancials_gv" class="cst_tbl">
+                                                    <table class="footable table footable-1 breakpoint-lg">
+                                                        <thead>
+                                                            <tr>
+                                                                <th data-toggle="true" class="footable-first-visible">DESCRIPTION</th>
+                                                                <th class="text-right">FY21</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY20</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY19</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY18</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY17</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY16</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY15</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY14</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY13</th>
+                                                                <th data-breakpoints="xs" class="text-right">FY12</th>
+
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr class="main_tbl_hdng">
+                                                                <td class="text-left" style="white-space: nowrap;"><b> Statement of Profit and Loss</b></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Gross revenue from operations  [1] </td>
+                                                                <td class="text-right">135979</td>
+                                                                <td class="text-right">145452</td>
+                                                                <td class="text-right">135220</td>
+                                                                <td class="text-right">119862</td>
+                                                                <td class="text-right">110011</td>
+                                                                <td class="text-right">101975</td>
+                                                                <td class="text-right">92762</td>
+                                                                <td class="text-right">85889</td>
+                                                                <td class="text-right">75195</td>
+                                                                <td class="text-right">64960</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left">PBDIT [1] [2]</td>
+                                                                <td class="text-right">15624</td>
+                                                                <td class="text-right">16329</td>
+                                                                <td class="text-right">15330</td>
+                                                                <td class="text-right">13641</td>
+                                                                <td class="text-right">11130</td>
+                                                                <td class="text-right">10463</td>
+                                                                <td class="text-right">11258</td>
+                                                                <td class="text-right">10730</td>
+                                                                <td class="text-right">9929</td>
+                                                                <td class="text-right">8884</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Profit attributable to Group shareholders (excluding extraordinary/exceptional items) [3]</td>
+                                                                <td class="text-right">6965</td>
+                                                                <td class="text-right">8894</td>
+                                                                <td class="text-right">8144</td>
+                                                                <td class="text-right">7151</td>
+                                                                <td class="text-right">5920</td>
+                                                                <td class="text-right">4154</td>
+                                                                <td class="text-right">4470</td>
+                                                                <td class="text-right">4547</td>
+                                                                <td class="text-right">4911</td>
+                                                                <td class="text-right">4649</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Profit attributable to Group shareholders (including extraordinary/exceptional items)   </td>
+                                                                <td class="text-right">11583</td>
+                                                                <td class="text-right">9549</td>
+                                                                <td class="text-right">8905</td>
+                                                                <td class="text-right">7370</td>
+                                                                <td class="text-right">6041</td>
+                                                                <td class="text-right">4233</td>
+                                                                <td class="text-right">4765</td>
+                                                                <td class="text-right">4902</td>
+                                                                <td class="text-right">5206</td>
+                                                                <td class="text-right">4694</td>
+                                                            </tr>
+                                                            <tr class="main_tbl_hdng">
+                                                                <td class="text-left "><b>Balance Sheet</b></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Net worth   </td>
+                                                                <td class="text-right">75869 </td>
+                                                                <td class="text-right">66723 </td>
+                                                                <td class="text-right">62375</td>
+                                                                <td class="text-right">54904</td>
+                                                                <td class="text-right">50217</td>
+                                                                <td class="text-right">44180</td>
+                                                                <td class="text-right">40909</td>
+                                                                <td class="text-right">37712</td>
+                                                                <td class="text-right">33860</td>
+                                                                <td class="text-right">29387</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Non-controlling interest   </td>
+                                                                <td class="text-right">12052</td>
+                                                                <td class="text-right">9521</td>
+                                                                <td class="text-right">6826</td>
+                                                                <td class="text-right">5201</td>
+                                                                <td class="text-right">3564</td>
+                                                                <td class="text-right">2893</td>
+                                                                <td class="text-right">4999</td>
+                                                                <td class="text-right">3179</td>
+                                                                <td class="text-right">2653</td>
+                                                                <td class="text-right">1753</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Loan funds</td>
+                                                                <td class="text-right">132605</td>
+                                                                <td class="text-right">141007</td>
+                                                                <td class="text-right">125555</td>
+                                                                <td class="text-right">107524</td>
+                                                                <td class="text-right">93954</td>
+                                                                <td class="text-right">88135</td>
+                                                                <td class="text-right">90571</td>
+                                                                <td class="text-right">80330</td>
+                                                                <td class="text-right">62672</td>
+                                                                <td class="text-right">47150</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Capital employed   </td>
+                                                                <td class="text-right">220525</td>
+                                                                <td class="text-right">217251</td>
+                                                                <td class="text-right">194756</td>
+                                                                <td class="text-right">167629</td>
+                                                                <td class="text-right">147735</td>
+                                                                <td class="text-right">135208</td>
+                                                                <td class="text-right">136479</td>
+                                                                <td class="text-right">121221</td>
+                                                                <td class="text-right">99185</td>
+                                                                <td class="text-right">78290</td>
+                                                            </tr>
+
+                                                            
+                                                            <tr class="main_tbl_hdng">
+                                                                <td class="text-left"><b> Ratios and statistics   </b></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> PBDIT as % of net revenue from operations [4] [1]  
+                                                                </td>
+                                                                <td class="text-right">11.49</td>
+                                                                <td class="text-right">11.23</td>
+                                                                <td class="text-right">11.34</td>
+                                                                <td class="text-right">11.40</td>
+                                                                <td class="text-right">10.18</td>
+                                                                <td class="text-right">10.35</td>
+                                                                <td class="text-right">12.24</td>
+                                                                <td class="text-right">12.60</td>
+                                                                <td class="text-right">13.33</td>
+                                                                <td class="text-right">13.81</td>
+
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left">Retrieving data. Wait a few seconds and try to cut or copy again.</td>
+                                                                <td class="text-right">8.52</td>
+                                                                <td class="text-right">6.57</td>
+                                                                <td class="text-right">6.59</td>
+                                                                <td class="text-right">6.16</td>
+                                                                <td class="text-right">5.53</td>
+                                                                <td class="text-right">4.19</td>
+                                                                <td class="text-right">5.18</td>
+                                                                <td class="text-right">5.76</td>
+                                                                <td class="text-right">6.99</td>
+                                                                <td class="text-right">7.30</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left">RONW % [6] </td>
+                                                                <td class="text-right">16.25</td>
+                                                                <td class="text-right">14.80</td>
+                                                                <td class="text-right">15.35</td>
+                                                                <td class="text-right">14.12</td>
+                                                                <td class="text-right">12.80/td>
+                                                                <td class="text-right">9.91</td>
+                                                                <td class="text-right">12.13</td>
+                                                                <td class="text-right">13.71</td>
+                                                                <td class="text-right">16.47</td>
+                                                                <td class="text-right">17.26</td>
+
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Gross Debt: Equity ratio   </td>
+                                                                <td class="text-right">1.51:1</td>
+                                                                <td class="text-right">1.85:1</td>
+                                                                <td class="text-right">1.81:1</td>
+                                                                <td class="text-right">1.79:1</td>
+                                                                <td class="text-right">1.75:1</td>
+                                                                <td class="text-right">1.87:1</td>
+                                                                <td class="text-right">2.21:1</td>
+                                                                <td class="text-right">2.13:1</td>
+                                                                <td class="text-right">1.85:1</td>
+                                                                <td class="text-right">1.61:1</td>
+
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Basic earnings per equity share (?)   [7]</td>
+                                                                <td class="text-right">82.49</td>
+                                                                <td class="text-right">68.04</td>
+                                                                <td class="text-right">63.51</td>
+                                                                <td class="text-right">52.62</td>
+                                                                <td class="text-right">43.20</td>
+                                                                <td class="text-right">30.32</td>
+                                                                <td class="text-right">34.22</td>
+                                                                <td class="text-right">35.31</td>
+                                                                <td class="text-right">37.69</td>
+                                                                <td class="text-right">34.14</td>
+
+
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Book value per equity share (?)  [8] </td>
+
+                                                                <td class="text-right">540.16</td>
+                                                                <td class="text-right">475.27</td>
+                                                                <td class="text-right">444.67</td>
+                                                                <td class="text-right">391.78</td>
+                                                                <td class="text-right">358.83</td>
+                                                                <td class="text-right">316.20</td>
+                                                                <td class="text-right">293.29</td>
+                                                                <td class="text-right">271.10</td>
+                                                                <td class="text-right">244.40</td>
+                                                                <td class="text-right">213.09</td>
+
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="footable-first-visible text-left"> Dividend per equity share (?)  [8] [9] </td>
+
+                                                                <td class="text-right">36.00</td>
+                                                                <td class="text-right">18.00</td>
+                                                                <td class="text-right">18.00</td>
+                                                                <td class="text-right">16.00</td>
+                                                                <td class="text-right">14.00</td>
+                                                                <td class="text-right">12.17</td>
+                                                                <td class="text-right">10.83</td>
+                                                                <td class="text-right">9.50</td>
+                                                                <td class="text-right">8.22</td>
+                                                                <td class="text-right">7.33</td>
+
+                                                            </tr>
+
+                                                        </tbody>
+                                                    </table>
+                                                    <div class="tbl_content">
+                                                        <p>[1] For Continuing Operations from 2018-19
+<br></p>
+                                                        <p>[2] Profit before depreciation, interest and tax (PBDIT) is excluding extraordinary & exceptional items wherever applicable and other income.
+<br></p>
+                                                        <p>[3] PBDIT as % of net revenue from operations =[(PBDIT)/(gross revenue from operations less excise duty up to June 30, 2017)].
+<br></p>
+                                                        <p>[4] "Profit After Tax (PAT) as % of net revenue from operations =[(PAT including extraordinary & exceptional items)/(gross revenue from operations less
+excise duty up to June 30, 2017)]."
+<br></p>
+                                                        <p>[5] RONW [(PAT including extraordinary & exceptional items)/(average net worth excluding revaluation reserve)].
+<br></p>
+                                                        <p>[6] Basic earnings per equity share has been calculated including extraordinary & exceptional items and adjusted for all the years for issue of bonus shares.
+<br></p>
+                                                        <p>[7] After considering adjustments for issue of bonus shares during the respective years.
+<br></p>
+                                                        <p>[8] Figures for the year 2011-12 include Hydrocarbon business which has been transferred w.e.f April 1, 2013 to a wholly owned subsidiary.
+<br></p>
+                                                        <p>[9] Dividend for the year 2020-21 includes special dividend of R 18.00 per share and final dividend of R 18 per share.
+<br></p>
+                                                    </div>
+                                                </div></font>
